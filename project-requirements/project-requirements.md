@@ -73,21 +73,21 @@ Beachten Sie bitte, dass Ihre Dokumentation folgende Teile umfasst:
 
  - ### 2.2.1 Benuzterdokumentation
 
-  Die Benuzterdokumentation soll alle Informationen enthalten, die für die Benutzung Ihresentwickelten Systems erforderlich sind. Neben der Beschreibung des Systems bezüglich dessen Zwecks, deren Funktionalität und Einsatz möglichkeiten, soll die Benutzerdokumentation zusätzlich die Installationsdokumentation beinhalten. Es soll daher die notwendige Hardware, Software, Standardbibliotheken und Laufzeitsysteme gelistet werden, sowie eine Beschreibung des Installationsprozesses.
+   Die Benuzterdokumentation soll alle Informationen enthalten, die für die Benutzung Ihresentwickelten Systems erforderlich sind. Neben der Beschreibung des Systems bezüglich dessen Zwecks, deren Funktionalität und Einsatz möglichkeiten, soll die Benutzerdokumentation zusätzlich die Installationsdokumentation beinhalten. Es soll daher die notwendige Hardware, Software, Standardbibliotheken und Laufzeitsysteme gelistet werden, sowie eine Beschreibung des Installationsprozesses.
 
  - ### 2.2.2 Systemdokumentation
 
-  Die Systemdokumentation soll alle Informationen zur Struktur und Implementierungsdetails Ihrer Software enthalten, um eine Einarbeitung in das System zu vereinfachen und dessen Weiterentwicklung zu unterstützen. Die Systemdokumentation soll daher sowohl einen Überblick über den Aufbau des Systems beinhalten als auch eine detaillierte Beschreibung wichtiger Bestandteile Ihres Softwaresystems. Betrachten Sie bitte deshalb folgende Punkte bei Ihrer Dokumentation:
+   Die Systemdokumentation soll alle Informationen zur Struktur und Implementierungsdetails Ihrer Software enthalten, um eine Einarbeitung in das System zu vereinfachen und dessen Weiterentwicklung zu unterstützen. Die Systemdokumentation soll daher sowohl einen Überblick über den Aufbau des Systems beinhalten als auch eine detaillierte Beschreibung wichtiger Bestandteile Ihres Softwaresystems. Betrachten Sie bitte deshalb folgende Punkte bei Ihrer Dokumentation:
     
-  1. Beschreibung der Softwarestruktur und der einzelnen Bestandteile.
-  2. Beschreibung der verwendeten Tools, Frameworks und Klassenbibliotheken.
-  3. Beschreibung des Quelltextes mit Javadoc.
-  4. Beschreibung der verwendeten Daten und Datenstrukturen.
-  5. (Optional) Beschreibung der ausgeführten Testfälle (Testdokumentation).
+   1. Beschreibung der Softwarestruktur und der einzelnen Bestandteile.
+   2. Beschreibung der verwendeten Tools, Frameworks und Klassenbibliotheken.
+   3. Beschreibung des Quelltextes mit Javadoc.
+   4. Beschreibung der verwendeten Daten und Datenstrukturen.
+   5. (Optional) Beschreibung der ausgeführten Testfälle (Testdokumentation).
 
  - ### 2.2.3 Projektdokumentation
 
-  Die Projektdokumentation soll insbesondere die Organisationsplanung Ihres Projekts enthalten. Es sollen Teilaufgaben bzw. die Entwicklungsphasen des Projekts sowie  die  Zuteilung  der einzelnen Gruppenmitglieder bzgl. der entwickelten Teile beschrieben und präzise dokumentiert werden. Betrachten Sie bitte, dass die Bewertung des Projekts und der Präsentation der einzelnen Gruppenmitglieder insbesondere von diesem Teil der Dokumentation abhängt.
+   Die Projektdokumentation soll insbesondere die Organisationsplanung Ihres Projekts enthalten. Es sollen Teilaufgaben bzw. die Entwicklungsphasen des Projekts sowie  die  Zuteilung  der einzelnen Gruppenmitglieder bzgl. der entwickelten Teile beschrieben und präzise dokumentiert werden. Betrachten Sie bitte, dass die Bewertung des Projekts und der Präsentation der einzelnen Gruppenmitglieder insbesondere von diesem Teil der Dokumentation abhängt.
 
 ## 2.3 Git-Upload & Wöchentliche Präsentation (100 Punkte = 4 x 25P)
 
