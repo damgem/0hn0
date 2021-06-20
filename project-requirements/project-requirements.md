@@ -87,7 +87,7 @@ Beachten Sie bitte, dass Ihre Dokumentation folgende Teile umfasst:
 
  - ### 2.2.3 Projektdokumentation
 
-    Die Projektdokumentation soll insbesondere die Organisationsplanung Ihres Projekts enthalten. Es sollen Teilaufgaben bzw. die Entwicklungsphasen des Projekts sowie  die  Zuteilung  der einzelnen Gruppenmitglieder bzgl. der entwickelten Teile beschrieben und präzise dokumentiert werden. Betrachten Sie bitte, dass die Bewertung des Projekts und der Präsentation der einzelnen Gruppenmitglieder insbesondere von diesem Teil der Dokumentation abhängt.
+  Die Projektdokumentation soll insbesondere die Organisationsplanung Ihres Projekts enthalten. Es sollen Teilaufgaben bzw. die Entwicklungsphasen des Projekts sowie  die  Zuteilung  der einzelnen Gruppenmitglieder bzgl. der entwickelten Teile beschrieben und präzise dokumentiert werden. Betrachten Sie bitte, dass die Bewertung des Projekts und der Präsentation der einzelnen Gruppenmitglieder insbesondere von diesem Teil der Dokumentation abhängt.
 
 ## 2.3 Git-Upload & Wöchentliche Präsentation (100 Punkte = 4 x 25P)
 
