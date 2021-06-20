@@ -1,7 +1,7 @@
 # 1. Überblick
 
-0h n0 ist ein einfaches Computerspiel, das vergleichbar mit einem Mix aus Minesweeper und Sudoku ist, bei dem der Spieler mithilfe logischem Denkens das Spielfeld mit blauen und roten Steinen füllen muss.
-Dabei muss eine gültige Steinkonfiguration folgende 3 einfache Regeln regeln erfüllen. Es soll eine eindeutige Lösung geben.
+0h n0 ist ein einfaches Computerspiel, das vergleichbar mit einem Mix aus Minesweeper und Sudoku ist, bei dem der Spieler mithilfe logischen Denkens das Spielfeld mit blauen und roten Steinen füllen muss.
+Dabei muss eine gültige Steinkonfiguration folgende 3 einfache Regeln erfüllen. Es soll eine eindeutige Lösung geben.
 
 1. Blaue Punkte können andere blaue Punkte in ihrer Reihe und Spalte sehen. Rote Punkte blockieren ihre Sicht.
 2. Blaue Punkte haben eine Zahl auf ihnen, die vorgibt wie viele andere blaue Punkte dieser Punkt sehen soll.
@@ -23,7 +23,7 @@ Das Spiel ist online spielbar unter [0hn0.com](https://0hn0.com/). Dort ist auch
 
 # 2. Projekt: Ziele und Anforderungen
 
-In diesem Projekt sollen Sie das Minesweeper-Spiel basierend auf JavaFX implementieren. Für eine erfolgreiche Bearbeitung des Projekts und somit auch eine erfolgreiche Teilnahme an der zweitenPhase müssen Sie folgende Anteile der Punkte erreichen:
+In diesem Projekt sollen Sie das Spiel basierend auf JavaFX implementieren. Für eine erfolgreiche Bearbeitung des Projekts und somit auch eine erfolgreiche Teilnahme an der zweiten Phase müssen Sie folgende Anteile der Punkte erreichen:
   - 50% der Punkte für die Implementierung.
   - 50% der Punkte für die Softwaredokumentation.
   - 65% der Punkte für die wöchentlichen Prästationen (Code) und Git-Upload.
