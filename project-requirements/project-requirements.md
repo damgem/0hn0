@@ -78,13 +78,12 @@ Beachten Sie bitte, dass Ihre Dokumentation folgende Teile umfasst:
  - ### 2.2.2 Systemdokumentation
 
   Die Systemdokumentation soll alle Informationen zur Struktur und Implementierungsdetails Ihrer Software enthalten, um eine Einarbeitung in das System zu vereinfachen und dessen Weiterentwicklung zu unterstützen. Die Systemdokumentation soll daher sowohl einen Überblick über den Aufbau des Systems beinhalten als auch eine detaillierte Beschreibung wichtiger Bestandteile Ihres Softwaresystems. Betrachten Sie bitte deshalb folgende Punkte bei Ihrer Dokumentation:
-     
-    - Beschreibung der Softwarestruktur und der einzelnen Bestandteile.
-    - Beschreibung der verwendeten Tools, Frameworks und Klassenbibliotheken.
-    - Beschreibung des Quelltextes mit Javadoc.
-    - Beschreibung der verwendeten Daten und Datenstrukturen.
-    - (Optional) Beschreibung der ausgeführten Testfälle (Testdokumentation).
-
+    
+  1. Beschreibung der Softwarestruktur und der einzelnen Bestandteile.
+  2. Beschreibung der verwendeten Tools, Frameworks und Klassenbibliotheken.
+  3. Beschreibung des Quelltextes mit Javadoc.
+  4. Beschreibung der verwendeten Daten und Datenstrukturen.
+  5. (Optional) Beschreibung der ausgeführten Testfälle (Testdokumentation).
 
  - ### 2.2.3 Projektdokumentation
 
