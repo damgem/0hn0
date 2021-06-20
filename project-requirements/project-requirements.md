@@ -3,9 +3,9 @@
 0h n0 ist ein einfaches Computerspiel, das vergleichbar mit einem Mix aus Minesweeper und Sudoku ist, bei dem der Spieler mithilfe logischen Denkens das Spielfeld mit blauen und roten Steinen füllen muss.
 Dabei muss eine gültige Steinkonfiguration folgende 3 einfache Regeln erfüllen. Es soll eine eindeutige Lösung geben.
 
-1. Blaue Punkte können andere blaue Punkte in ihrer Reihe und Spalte sehen. Rote Punkte blockieren ihre Sicht.
-2. Blaue Punkte haben eine Zahl auf ihnen, die vorgibt wie viele andere blaue Punkte dieser Punkt sehen soll.
-3. Jeder Blauer Punkt muss mindestens einen anderen Blauen Punkt sehen.
+1. Blaue Steine können andere blaue Steine in ihrer Reihe und Spalte sehen. Rote Steine blockieren ihre Sicht.
+2. Blaue Steine haben eine Zahl auf ihnen, die vorgibt wie viele andere blaue Steine dieser Punkt sehen soll.
+3. Jeder blauer Stein muss mindestens einen anderen blauen Stein sehen.
 
 Ein Beispiel für den Anfang eines Spiels ist folgendes Spielfeld:
 
@@ -73,11 +73,11 @@ Beachten Sie bitte, dass Ihre Dokumentation folgende Teile umfasst:
 
  - ### 2.2.1 Benuzterdokumentation
 
-    Die Benuzterdokumentation soll alle Informationen enthalten, die für die Benutzung Ihresentwickelten Systems erforderlich sind. Neben der Beschreibung des Systems bezüglich dessen Zwecks, deren Funktionalität und Einsatz möglichkeiten, soll die Benutzerdokumentation zusätzlich die Installationsdokumentation beinhalten. Es soll daher die notwendige Hardware, Software, Standardbibliotheken und Laufzeitsysteme gelistet werden, sowie eine Beschreibung des Installationsprozesses.
+  Die Benuzterdokumentation soll alle Informationen enthalten, die für die Benutzung Ihresentwickelten Systems erforderlich sind. Neben der Beschreibung des Systems bezüglich dessen Zwecks, deren Funktionalität und Einsatz möglichkeiten, soll die Benutzerdokumentation zusätzlich die Installationsdokumentation beinhalten. Es soll daher die notwendige Hardware, Software, Standardbibliotheken und Laufzeitsysteme gelistet werden, sowie eine Beschreibung des Installationsprozesses.
 
  - ### 2.2.2 Systemdokumentation
 
-    Die Systemdokumentation soll alle Informationen zur Struktur und Implementierungsdetails Ihrer Software enthalten, um eine Einarbeitung in das System zu vereinfachen und dessen Weiterentwicklung zu unterstützen. Die Systemdokumentation soll daher sowohl einen Überblick über den Aufbau des Systems beinhalten als auch eine detaillierte Beschreibung wichtiger Bestandteile Ihres Softwaresystems. Betrachten Sie bitte deshalb folgende Punkte bei Ihrer Dokumentation:
+  Die Systemdokumentation soll alle Informationen zur Struktur und Implementierungsdetails Ihrer Software enthalten, um eine Einarbeitung in das System zu vereinfachen und dessen Weiterentwicklung zu unterstützen. Die Systemdokumentation soll daher sowohl einen Überblick über den Aufbau des Systems beinhalten als auch eine detaillierte Beschreibung wichtiger Bestandteile Ihres Softwaresystems. Betrachten Sie bitte deshalb folgende Punkte bei Ihrer Dokumentation:
 
     - Beschreibung der Softwarestruktur und der einzelnen Bestandteile.
     - Beschreibung der verwendeten Tools, Frameworks und Klassenbibliotheken.
@@ -85,10 +85,10 @@ Beachten Sie bitte, dass Ihre Dokumentation folgende Teile umfasst:
     - Beschreibung der verwendeten Daten und Datenstrukturen.
     - (Optional) Beschreibung der ausgeführten Testfälle (Testdokumentation).
 
+
  - ### 2.2.3 Projektdokumentation
 
   Die Projektdokumentation soll insbesondere die Organisationsplanung Ihres Projekts enthalten. Es sollen Teilaufgaben bzw. die Entwicklungsphasen des Projekts sowie  die  Zuteilung  der einzelnen Gruppenmitglieder bzgl. der entwickelten Teile beschrieben und präzise dokumentiert werden. Betrachten Sie bitte, dass die Bewertung des Projekts und der Präsentation der einzelnen Gruppenmitglieder insbesondere von diesem Teil der Dokumentation abhängt.
-<br/>
 
 ## 2.3 Git-Upload & Wöchentliche Präsentation (100 Punkte = 4 x 25P)
 
