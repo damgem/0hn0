@@ -85,6 +85,8 @@ Beachten Sie bitte, dass Ihre Dokumentation folgende Teile umfasst:
    4. Beschreibung der verwendeten Daten und Datenstrukturen.
    5. (Optional) Beschreibung der ausgeführten Testfälle (Testdokumentation).
 
+  <br>
+  
  - ### 2.2.3 Projektdokumentation
 
    Die Projektdokumentation soll insbesondere die Organisationsplanung Ihres Projekts enthalten. Es sollen Teilaufgaben bzw. die Entwicklungsphasen des Projekts sowie  die  Zuteilung  der einzelnen Gruppenmitglieder bzgl. der entwickelten Teile beschrieben und präzise dokumentiert werden. Betrachten Sie bitte, dass die Bewertung des Projekts und der Präsentation der einzelnen Gruppenmitglieder insbesondere von diesem Teil der Dokumentation abhängt.
